@@ -1,6 +1,8 @@
 {
-  "dependencies": {},
-  "devDependencies": {
-    "prompts": "^2.0.3"
-  }
+  "name": "word-pinyinizer",
+  "main": "word-pinyinizer",
+  "dependencies": {
+    "prompts": "^2.0.4"
+  },
+  "bin": "./bin/word-pinyinizer"
 }
