@@ -4,5 +4,6 @@
   "dependencies": {
     "prompts": "^2.0.4"
   },
-  "bin": "./bin/word-pinyinizer"
+  "bin": "./bin/word-pinyinizer",
+  "version": "0.0.9"
 }
